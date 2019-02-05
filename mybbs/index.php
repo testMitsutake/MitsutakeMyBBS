@@ -55,7 +55,7 @@ $mysqli->close();
 <input type="text" name="onamae" /><br />
 <label>コメント：</label>
 <input type="text" name="comment" />
-<input type="submit" value="投稿" />
+<input type="submit" value="投稿する" />
 </form>
 </body>
 </html>
